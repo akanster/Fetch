@@ -1,6 +1,7 @@
 Solution for Fetch interview homework from Ad Hoc.
 
-Solution code in [api/managed-records.js](api/managed-records.js)
+Solution code in [api/managed-records.js](api/managed-records.js).
+Sample calls to the api in [index.js](index.js)
 
 Original instructions below.
 
